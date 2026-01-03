@@ -8,5 +8,5 @@ for i in range(0,n):
 
 print(hash_map);
 
-# TC = O(n)
-# SC = O(n)
+    # TC = O(n)
+    # SC = O(n)
